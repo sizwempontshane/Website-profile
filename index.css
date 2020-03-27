@@ -1,0 +1,153 @@
+/*Start global*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(169, 197, 172);
+}
+/*End global*/
+body{
+    width: 100%;
+    height: 100%;
+    background: url("images/spider-web.jpg") no-repeat fixed;
+    background-size: cover;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: rgb(194, 191, 149) ;
+}
+
+p{
+    font-size: 1.5rem; 
+    font-weight: 300;
+}
+
+
+}
+/*Start header*/
+header{
+    width: 100%;
+    height: 100%;
+
+}
+.intro{
+    position: absolute;
+    font-size: 1.1rem;
+    color: rgb(116, 68, 68);
+    font-style: italic;
+    margin-bottom: 5rem;
+    
+    
+
+}
+
+.profile-image{
+    width: 100%;
+    position: relative;
+    text-align: center;
+    margin-top: 10rem;
+    margin-bottom: 5rem;
+
+}
+.about.details{
+    font-size: 2rem;
+    color: khaki;
+    text-align: center;
+
+}
+.about-info{
+    font-size: 1.3rem;
+    color: rgb(194, 191, 149);
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
+.skills{
+    font-size: 1.3rem;
+    color: rgb(194, 191, 149);
+    text-align: center;
+    margin-bottom: 5rem;
+}
+.Services{
+    font-size: 2rem;
+    color:khaki;
+    text-align: center;
+}
+.portfolio h1{
+    font-size: 3rem;
+    color: khaki;
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+
+.portfolio h5{
+    font-size: 1.8rem;
+    text-align: center;
+    color: slategrey;
+    margin-bottom: 5rem;
+
+}
+
+.portfolio-img{
+   position: relative;
+   margin-top: -3rem;
+   margin-left: 380px;
+}
+
+.portfolio-description{
+    font-size: 1.3rem;
+    color: rgb(194, 191, 149);
+    text-align: center;
+    margin-bottom: 5rem;
+
+}
+
+.job h1{
+    font-size: 3rem;
+    color: khaki;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.job h3{
+    font-size: 1.5rem;
+    color: rgb(194, 191, 149);
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
+.contact h1{
+    font-size: 3rem;
+    color: khaki;
+    text-align: center;
+    margin-bottom: 1rem;
+
+}
+.contact h3{
+    font-size: 1.5rem;
+    color: rgb(194, 191, 149);
+    text-align: center;
+}
+/*Contact*/
+.form{
+    font-size: 1.1rem;
+    color: snow;
+    margin-bottom: 5rem;
+    text-align: center;
+}
+
+
+
+
+
+
